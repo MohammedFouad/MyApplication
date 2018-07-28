@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 // third comment
 
 // first comment
-// second comment
+
 // third comment
 // third comment
 // first comment
